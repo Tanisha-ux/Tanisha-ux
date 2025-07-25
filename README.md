@@ -1,4 +1,4 @@
--  Hi, I’m Tanisha Negi
+-  Hi I’m Tanisha Negi.
 -  I’m interested in Web development. I`m passionate about building dynamics and responsive web applications.
 -  I enjoy collaborating on projects, learning from others and contributing to open source communities.
 -  I’m currently fresher at Sharda university, Greater Noida
