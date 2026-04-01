@@ -18,10 +18,10 @@ Improving my understanding of core computer science subjects
 
 ---------------------
 ### 🛠️A few things I’ve built
-Smart Wheelchair (IoT-based project for accessibility)
-Voice Controlled Car using Arduino
+Smart Wheelchair (IoT-based project for accessibility) smart car prototype
+Vacation Rentals implementing CRUD and Middlewares
 Student Notes Manager (MERN stack)
-Planning a Bike Station Locator app
+Resource Sharing Platform
 
 
 ---------------------
